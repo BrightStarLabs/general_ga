@@ -130,7 +130,7 @@ var_specs = [
         mut_type="resample",
         mut_prob=0.05,
         crossover_prob=0.02,
-        resample_min=-10, resample_max=11,  # values in [-10..10]
+        resample_min=0, resample_max=4,  # values in [0..3]
     ),
 ]
 
